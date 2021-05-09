@@ -1,0 +1,72 @@
+html {
+    font-family: helvetica;
+    font-size: 18px;
+}
+
+body {
+    background: url(https://cdn.theatlantic.com/assets/media/img/mt/2015/10/Cygnus_v3_BandW/lead_960.jpg?1444687096);
+    color: white;
+}
+
+/*h1 {
+     background: url(https://megknoll.github.io/images/sun.png);
+     background-repeat: no-repeat;
+     background-position: bottom left;
+     height: 200px;
+     padding-top: 75px;
+     margin-top:-60px;
+     margin-left:-60px;
+     padding-left: 100px;
+}*/
+.question {
+    padding-left: 40px;
+}
+
+img {
+    display: block;
+}
+
+.mercury {
+    width: 30px;
+    margin-left: 50px;
+}
+
+.venus {
+    width: 50px;
+    margin-left: 85px;
+}
+
+.earth {
+    width: 50px;
+    margin-left: 130px;
+}
+
+.mars {
+    margin-top: 10px;
+    width: 30px;
+    margin-left: 175px;
+}
+
+.jupiter {
+
+    width: 170px;
+    margin-left: 175px;
+}
+
+.saturn {
+    width: 160px;
+    margin-top: -25px;
+    margin-left: 300px;
+}
+
+.uranus {
+    width: 75px;
+    margin-left: 450px;
+}
+
+.neptune {
+    width: 75px;
+    margin-left: 525px;
+    
+}
+.gif {margin-left:290px;}
